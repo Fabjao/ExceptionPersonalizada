@@ -1,0 +1,11 @@
+C:\Projeto\Console\Exception\Exception\bin\Debug\netcoreapp2.2\Exception.deps.json
+C:\Projeto\Console\Exception\Exception\bin\Debug\netcoreapp2.2\Exception.runtimeconfig.json
+C:\Projeto\Console\Exception\Exception\bin\Debug\netcoreapp2.2\Exception.runtimeconfig.dev.json
+C:\Projeto\Console\Exception\Exception\bin\Debug\netcoreapp2.2\Exception.dll
+C:\Projeto\Console\Exception\Exception\bin\Debug\netcoreapp2.2\Exception.pdb
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.csprojAssemblyReference.cache
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.csproj.CoreCompileInputs.cache
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.AssemblyInfoInputs.cache
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.AssemblyInfo.cs
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.dll
+C:\Projeto\Console\Exception\Exception\obj\Debug\netcoreapp2.2\Exception.pdb
